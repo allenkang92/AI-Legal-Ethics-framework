@@ -144,7 +144,7 @@
 ### AI 윤리 및 설명가능성
 - [XAI와 AI 규제 준수와의 상관성](https://ahha.ai/2024/07/09/xai_reliability/)
 - [인공지능 윤리(AI Ethics)의 개념, 사례, 가이드라인](https://modulabs.co.kr/blog/ai-ethics)
-- [AI 윤리 책무성 보고서](https://www.lgresearch.ai/news/view?seq=399)
+- [AI 윤리 책무성 보고서 관련 뉴스](https://www.lgresearch.ai/news/view?seq=399)
 - [설명가능한 AI](https://www.aitimes.com/news/articleView.html?idxno=140447)
 - [인공지능(AI) 윤리 가이드라인’의 중요성과 국가별 대응 현황: 국내](https://ethics.moe.edu.tw/files/resource/ebook/file/ebook_01_kr.pdf)
 - [AI 윤리원칙 사례](https://www.acrc.go.kr/briefs/849fd88ee13c7cd5dd9ac923ef2ed1549f966439a132a5597faa3c1df6f805c5/sub_2.html)
