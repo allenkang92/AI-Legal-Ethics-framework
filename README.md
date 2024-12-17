@@ -1,4 +1,4 @@
-# AI 법률-윤리 프레임워크
+# AI-Legal-Ethics-framework
 
 ## 연구 개요
 
